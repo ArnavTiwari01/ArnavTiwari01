@@ -23,13 +23,13 @@ A **lazy coder** by day and **world-class anime binger** by night, loves to solv
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridulcreates&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
 </div>
 
 ---
 
 ## 🧮 **Visitor Counter**
-<a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mridulcreates?theme=rule34"></a>
+<a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mArnavTiwari01?theme=rule34"></a>
 
 ```yaml
 Welcome, mysterious visitor!  
