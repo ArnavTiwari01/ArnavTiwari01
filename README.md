@@ -6,7 +6,7 @@
 <img align="right" width="425" src="https://lanyard.cnrad.dev/api/1200558164844740796?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;">
 </a>
 
-### 👋 Hey, I'm Mridul! 
+### 👋 Hey, I'm Arnav! 
 
 **Full-Stack Developer | Gamer Extraordinaire**
 
@@ -41,13 +41,13 @@ Remember: curiosity comes with its consequences!
 Got bugs? Let’s squash them together! Reach out anytime:
 
 <div align="center">
-  <a href="https://www.instagram.com/mridul.ft/" target="_blank">
+  <a href="https://www.instagram.com/arnavxtiwari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:mridulbud@gmail.com" target="_blank">
+  <a href="mailto:arnav.15@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
