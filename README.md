@@ -43,10 +43,10 @@ Got bugs? Let’s squash them together! Reach out anytime:
 <div align="center">
   <a href="https://www.instagram.com/arnavxtiwari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+<a href="https://google.com">
+<img align="right" width="425" src="https://lanyard.cnrad.dev/api/1183725902497067051?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;"> 
+</a>
+
   <a href="mailto:arnav.15@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
