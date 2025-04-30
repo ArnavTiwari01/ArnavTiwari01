@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E63946&text=Welcome%20To%20My%20Profile&desc=Gamer%20%7C%20Weeb%20%7C%20Developer&descAlign=50&descAlignY=71&fontAlignY=46&fontColor=ffffff"/>
-</p>
 
 <a href="https://google.com">
 <img align="right" width="425" src="https://lanyard.cnrad.dev/api/1183725902497067051?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;"> 
