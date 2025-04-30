@@ -14,7 +14,7 @@
 
 <h4>About Me</h4>
 
-A **lazy coder** by day and **world-class anime binger** by night, loves to solve problems (except math ones 🫠) and questioning why semicolons exist.
+A **lazy coder** by day and **world-class anime binger** by night, loves to solve problems and questioning why semicolons exist.
 
 ---
 
@@ -41,7 +41,7 @@ Remember: curiosity comes with its consequences!
 Got bugs? Let’s squash them together! Reach out anytime:
 
 <div align="center">
-  <a href="https://www.instagram.com/arnavxtiwari/" target="_blank">
+  <a href="https://www.instagram.com/arnavtiwari077/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 
   <a href="mailto:arnav.15@outlook.com" target="_blank">
