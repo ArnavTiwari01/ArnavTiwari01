@@ -49,5 +49,5 @@ Got bugs? Let’s squash them together! Reach out anytime:
 ```yaml
 - My bugs are more famous than my commits 🐞
 - I believe in the power of caffeine and clean indentation.
-- When in doubt: console.log('It works!').
+- When in doubt: print('It works!')
 ```
