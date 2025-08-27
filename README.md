@@ -3,15 +3,18 @@
 <img align="right" width="425" src="https://lanyard.cnrad.dev/api/1183725902497067051?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;"> 
 </a>
 
-### 👋 Hey, I'm Arnav! 
+### 👋 Hello, Im Arnav Tiwari 
 
-**Full-Stack Developer | Gamer Extraordinaire**
-
+🚀 **Aspiring DevOps Engineer | Student of Systems, Cloud, and Automation**
 ---
 
 <h4>About Me</h4>
 
-A **lazy coder** by day and **world-class anime binger** by night, loves to solve problems and questioning why semicolons exist.
+Passionate about infrastructure, cloud computing, and building pipelines that don’t break.  
+Currently deep-diving into CI/CD, Docker, Kubernetes, and everything in between.  
+Learning by breaking things — then learning even more by fixing them.
+
+💡 Always exploring new tools | 📦 Shipping personal projects | 🧠 Obsessed with efficienc
 
 ---
 
