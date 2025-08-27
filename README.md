@@ -5,7 +5,7 @@
 
 ### 👋 Hello, Im Arnav Tiwari 
 
-🚀 **Aspiring DevOps Engineer | Systems, Clouds, and Automation**
+🚀 **Aspiring DevOps Engineer | Systems & Clouds**
 ---
 
 <h4>About Me</h4>
