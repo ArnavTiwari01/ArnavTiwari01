@@ -31,13 +31,20 @@ Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things 
 
 
 ---
-## 🌟 |  **GitHub Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavtiwari987&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtiwari987&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnavtiwari987&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnavtiwari987&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
