@@ -22,6 +22,8 @@ Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things 
 
 ---
 
+<h4>💻 | Tech Stack</h4>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
