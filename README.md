@@ -77,21 +77,3 @@ Got bugs? Let’s squash them together! Reach out anytime:
 
 </p>
 
-``` 
-# 💬 Some Dev Humor
-- My bugs are more famous than my commits 🐞
-- I believe in the power of caffeine and clean indentation.
-- When in doubt: print('It works!')
-
-
-```yaml
-# 💬 Some Dev Humor
-- My bugs are more famous than my commits 🐞
-- I believe in the power of caffeine and clean indentation.
-- When in doubt: print('It works!')
-
-```yaml
-- My bugs are more famous than my commits 🐞
-- I believe in the power of caffeine and clean indentation.
-- When in doubt: print('It works!')
-```
