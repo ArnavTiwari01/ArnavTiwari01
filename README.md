@@ -53,16 +53,28 @@ Remember: curiosity comes with its consequences!
 ```
 
 ## 🤝 | **Connect with Me**
+
 Got bugs? Let’s squash them together! Reach out anytime:
 
-<div align="center">
+<p align="center">
   <a href="https://www.instagram.com/arnavtiwari077/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-@arnavtiwari077-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+  
+  <a href="mailto:arnav.15@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-arnav.15@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
+  </a>
 
   <a href="mailto:arnav.15@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-arnav.15@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-</div>
+</p>
+
+```yaml
+# 💬 Some Dev Humor
+- My bugs are more famous than my commits 🐞
+- I believe in the power of caffeine and clean indentation.
+- When in doubt: print('It works!')
 
 ```yaml
 - My bugs are more famous than my commits 🐞
