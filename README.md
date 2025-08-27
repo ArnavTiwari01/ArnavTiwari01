@@ -4,9 +4,9 @@
 </a>
 
 
-### 👋 Hello, Im Arnav 
+### 👋 | Hello, Im Arnav 
 
-🚀 **Aspiring DevOps Engineer | Systems & Clouds**
+🚀 | **Aspiring DevOps Engineer | Systems & Clouds**
 
 ---
 
@@ -18,7 +18,7 @@ Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things 
 
 <br>
 
-💡 Always exploring new tools | 📦 Shipping personal projects | 🧠 Obsessed with efficiency
+💡 | Always exploring new tools | 📦 Shipping personal projects | 🧠 Obsessed with efficiency
 
 ---
 
@@ -31,7 +31,7 @@ Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things 
 
 
 ---
-## 🌟 **GitHub Stats**
+## 🌟 |  **GitHub Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
@@ -41,7 +41,7 @@ Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things 
 
 ---
 
-## 🧮 **Visitor Counter**
+## 🧮 |  **Visitor Counter**
 <a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mArnavTiwari01?theme=rule34"></a>
 
 ```yaml
@@ -50,7 +50,7 @@ You've entered my digital lair.
 Remember: curiosity comes with its consequences!  
 ```
 
-## 🤝 **Connect with Me**
+## 🤝 | **Connect with Me**
 Got bugs? Let’s squash them together! Reach out anytime:
 
 <div align="center">
