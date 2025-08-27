@@ -10,11 +10,13 @@
 
 <h4>About Me</h4>
 
-Passionate about infrastructure, cloud computing, and building pipelines that don’t break.  
-Currently deep-diving into CI/CD, Docker, Kubernetes, and everything in between.  
-Learning by breaking things — then learning even more by fixing them.
+Passionate about **infrastructure**, **cloud computing**, and building **pipelines** that don’t break.  
+Currently deep-diving into **CI/CD**, **Docker**, **Kubernetes**, and everything in between.  
+Learning by **breaking things** — then learning even more by **fixing them**.
 
-💡 Always exploring new tools | 📦 Shipping personal projects | 🧠 Obsessed with efficienc
+<br>
+
+💡 Always exploring new tools | 📦 Shipping personal projects | 🧠 Obsessed with efficiency
 
 ---
 
