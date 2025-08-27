@@ -6,7 +6,7 @@
 
 ### 👋 | Hello, Im Arnav 
 
-🚀 | **Aspiring DevOps Engineer | Systems & Clouds**
+🚀 **Aspiring DevOps Engineer | Systems & Clouds**
 
 ---
 
