@@ -4,16 +4,16 @@
 </a>
 
 
-### 👋 Hello, Im Arnav Tiwari 
+### 👋 Hello, Im Arnav 
 
 🚀 **Aspiring DevOps Engineer | Systems & Clouds**
-
 
 ---
 
 <h4>About Me</h4>
 
 Student DevOps engineer exploring **infrastructure**, **cloud systems**, and **automation**.  
+
 Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things — and fixing them.
 
 <br>
@@ -21,7 +21,6 @@ Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things 
 💡 Always exploring new tools | 📦 Shipping personal projects | 🧠 Obsessed with efficiency
 
 ---
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
