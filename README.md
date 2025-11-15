@@ -17,8 +17,6 @@ Currently learning **CI/CD**, **Docker**, and **Kubernetes** by breaking things 
 
 ---
 
-<h4>💻 | Tech Stack</h4>
-
 <div align="center">
 
 ## 🧑‍💻 Tech Stack
