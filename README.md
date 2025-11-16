@@ -6,17 +6,12 @@
 ---
 
 <h4>About Me</h4>
-Teen cybersecurity enthusiast exploring ethical hacking, Linux systems, and network security.
 
-Currently learning Python, Kali Linux, penetration testing tools, and terminal workflows by experimenting, breaking things ethically — and understanding exactly how they work.
-
-🔍 | Passionate about uncovering vulnerabilities ethically
+🔍 | Ethical hacking enthusiast | 🐧 Linux & Kali | 🐍 Python
+🛡️ |  Building skills, one exploit at a time.
 💻 | Practising Linux, Bash, and Python daily
 🌐 | Building strong fundamentals in networking & OS concepts
 🔥 | Hungry to grow into a skilled ethical hacke
-
-<br>
----
 
 <div align="center">
 
