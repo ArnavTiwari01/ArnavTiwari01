@@ -93,8 +93,8 @@ Got bugs? Let’s squash them together! Reach out anytime:
     <img src="https://img.shields.io/badge/Outlook-arnav.15@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
   </a>
 
-  <a href="mailto:arnav.15@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-arnav.15@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  <a href="mailto:arnav.coffee@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-arnav.coffee@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 
   <a href="https://twitter.com/escapedtiwari" target="_blank">
