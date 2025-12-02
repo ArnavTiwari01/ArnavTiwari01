@@ -50,7 +50,7 @@
 ---
 ---
 
-## 🧮 |  **Visitor Counter**
+## 🧮 |  **Hola Visitor**
 <a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mArnavTiwari01?theme=rule34"></a>
 
 ```yaml
@@ -61,7 +61,7 @@ Remember: curiosity comes with its consequences!
 
 ## 🤝 | **Connect with Me**
 
-Got bugs? Let’s squash them together! Reach out anytime:
+Got bugs? Let’s squash them together:
 
 <p align="center">
   <a href="https://www.instagram.com/arnavtiwari077/" target="_blank">
