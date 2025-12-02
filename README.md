@@ -40,43 +40,43 @@
 
 </div>
 
----
----
-
-## 🌟 |  **GitHub Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtiwari&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
-</div>
-
----
 ---
 
-## 👀 |  **Hello Spectator!**
-<a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mArnavTiwari01?theme=rule34"></a>
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavtiwari&theme=tokyonight&hide_border=true" />
+</p>
 
-```yaml
-Welcome, mysterious visitor!  
-You've entered my digital lair.  
-Remember: curiosity comes with its consequences!  
-```
+---
 
-## 🤝 | **Connect with Me!**
+## 👀 Visitor Note  
+Welcome to my GitHub profile.  
+I'm actively learning, building projects, and working toward becoming a skilled Software & Security Engineer.
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/arnavtiwari077">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:arnav.15@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/escapeditIwari">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <a href="https://www.instagram.com/arnavtiwari077/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@arnavtiwari077-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-
-  <a href="mailto:arnav.15@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-arnav.15@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
-  </a>
-
-  <a href="https://twitter.com/escapedtiwari" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@escapedtiwari-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
-  </a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C0FF&width=700&lines=Building+Skills.+Learning+Daily.+Growing+as+an+Engineer." />
 </p>
+
 
