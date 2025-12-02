@@ -50,7 +50,7 @@
 ---
 ---
 
-## 🧮 |  **Hola Visitor**
+## 👀 |  **Hello Spectator!**
 <a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mArnavTiwari01?theme=rule34"></a>
 
 ```yaml
@@ -59,9 +59,7 @@ You've entered my digital lair.
 Remember: curiosity comes with its consequences!  
 ```
 
-## 🤝 | **Connect with Me**
-
-Got bugs? Let’s squash them together:
+## 🤝 | **Connect with Me!**
 
 <p align="center">
   <a href="https://www.instagram.com/arnavtiwari077/" target="_blank">
