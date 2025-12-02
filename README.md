@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 Tech Stack
 
-### 🛡️ Cybersecurity / Ethical Hacking
+### 🛡️ Cybersecurity / Ethical Hacking [Learning]
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-### 🌐 Web Development
+### 🌐 Web Development [Learning]
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
