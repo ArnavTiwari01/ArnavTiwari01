@@ -7,11 +7,15 @@
 
 <h4>About Me</h4>
 
-🔍 | Ethical hacking enthusiast | 🐧 Linux & Kali | 🐍 Python
-🛡️ |  Building skills, one exploit at a time.
-💻 | Practising Linux, Bash, and Python daily
-🌐 | Building strong fundamentals in networking & OS concepts
-🔥 | Hungry to grow into a skilled ethical hacke
+### About Me
+
+- 🔍 Ethical hacking enthusiast  
+- 🐧 Linux & Kali practitioner  
+- 🐍 Python developer  
+- 🛡️ Building skills, one exploit at a time  
+- 💻 Practising Linux, Bash, and Python daily  
+- 🌐 Strengthening fundamentals in networking & OS concepts  
+- 🔥 Hungry to grow into a skilled ethical hacker  
 
 <div align="center">
 
