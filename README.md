@@ -34,16 +34,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
----
-
-
----
----
-
 </div>
 
 ---
 ---
+
 ## 🌟 |  **GitHub Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
