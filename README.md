@@ -1,7 +1,7 @@
 
 ### 👋 | Hello, Im Arnav 
 
-🚀 **Aspiring Software Engineer | Security Engineer/Analyst**
+🚀 **Founder of WebNova | Full Stack Developer | Security Analyst**
 
 ---
 
