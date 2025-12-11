@@ -1,7 +1,7 @@
 
 ### 👋 | Hello, Im Arnav 
 
-🚀 **Founder of WebNova | Full Stack Developer | Security Analyst**
+🚀 **Founder | Full Stack Developer | Security Analyst**
 
 ---
 
