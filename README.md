@@ -1,7 +1,7 @@
 
-### 👋 | Arnav Tiwari
+### | Arnav Tiwari
 
-🚀 **Founder | Backend Developer | Security Analyst | Web Developer**
+**Founder | Backend Developer | Security Analyst | Web Developer**
 
 ---
 
@@ -14,29 +14,29 @@
 
 <div align="center">
   
-## 🧑‍💻 Tech Stack
+## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtiwari01&layout=compact&theme=tokyonight)
 >
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 👀 View 
+## View 
 Welcome to my GitHub profile.  
 I'm actively learning, building projects, and working toward becoming a skilled Software & Security Engineer.
 
 ---
 
-## 🤝 Connect
+## Connect
 <p align="center">
   <a href="https://instagram.com/arnavtiwari077">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
