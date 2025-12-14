@@ -1,7 +1,7 @@
 
-### 👋 | Hello, Im Arnav 
+### 👋 | Arnav Tiwari
 
-🚀 **Founder | Full Stack Developer | Security Analyst**
+🚀 **Founder | Backend Developer | Security Analyst | Web Developer**
 
 ---
 
@@ -32,13 +32,13 @@
 
 ---
 
-## 👀 Visitor Note  
+## 👀 View 
 Welcome to my GitHub profile.  
 I'm actively learning, building projects, and working toward becoming a skilled Software & Security Engineer.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 <p align="center">
   <a href="https://instagram.com/arnavtiwari077">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
