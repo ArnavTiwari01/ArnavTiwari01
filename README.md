@@ -21,23 +21,14 @@
 
 ## 🧑‍💻 Tech Stack
 
-### 🛡️ Cybersecurity / Ethical Hacking [Learning]
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=blue)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-### 🌐 Web Development [Learning]
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E63946&text=Welcome%20To%20My%20Profile&desc=Gamer%20%7C%20Weeb%20%7C%20Developer&descAlign=50&descAlignY=71&fontAlignY=46&fontColor=ffffff"/>
+</p>
 
+<a href="https://google.com">
+<img align="right" width="425" src="https://lanyard.cnrad.dev/api/1200558164844740796?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;">
 </div>
 
 ## 📊 GitHub Stats
