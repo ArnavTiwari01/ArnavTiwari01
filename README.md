@@ -8,14 +8,11 @@
 <h4>About Me</h4>
 
 ### About Me
-
-- 🔍 Ethical hacking enthusiast  
-- 🐧 Linux & Kali practitioner  
-- 🐍 Python developer  
-- 🛡️ Building skills, one exploit at a time  
-- 💻 Practising Linux, Bash, and Python daily  
-- 🌐 Strengthening fundamentals in networking & OS concepts  
-- 🔥 Hungry to grow into a skilled ethical hacker  
+ 
+- 🐧 Kali Linux 
+- 🐍 Python For Backend   
+- 🌐 Strengthening fundamentals in networking & OS concepts (DSA) 
+- 🔥 Web Developer 
 
 <div align="center">
   
@@ -23,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,python,git,github&theme=dark" />
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtiwari01&layout=compact&theme=tokyonight)
 >
 
 ---
