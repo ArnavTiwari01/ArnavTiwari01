@@ -5,14 +5,12 @@
 
 ---
 
-<h4>About Me</h4>
-
-### About Me
+### What I know:
  
 - 🐧 Kali Linux 
 - 🐍 Python For Backend   
-- 🌐 Strengthening fundamentals in networking & OS concepts (DSA) 
-- 🔥 Web Developer 
+- 🌐 Web Developer
+- 🔥 Strengthening fundamentals in networking & OS concepts (DSA)  
 
 <div align="center">
   
