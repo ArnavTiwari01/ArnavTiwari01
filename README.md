@@ -18,15 +18,13 @@
 - 🔥 Hungry to grow into a skilled ethical hacker  
 
 <div align="center">
-
+  
 ## 🧑‍💻 Tech Stack
-
-![HTML](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white) ![VSCode](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github&theme=dark" />
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtiwari&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+>
 
 ---
 
