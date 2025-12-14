@@ -15,7 +15,7 @@
 <div align="center">
   
 ## 🧑‍💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,python,git,javascript,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtiwari01&layout=compact&theme=tokyonight)
