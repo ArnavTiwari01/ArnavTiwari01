@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavtiwari01&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&theme=tokyonight)
 >
 
 ---
