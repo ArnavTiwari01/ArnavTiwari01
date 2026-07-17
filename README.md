@@ -45,13 +45,11 @@ Python Security Tools & Ethical Hacking Projects
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=dracula&hide_border=true" width="100%"/>
 </p>
 
-## 💻 About Me
+## 💀 Quote of the Day
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking;Python+Developer;Backend+%26+Web+Developer;Always+Learning+Something+New..." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
----
 
 ## View 
 Welcome to my GitHub profile.  
