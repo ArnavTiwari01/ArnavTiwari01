@@ -1,16 +1,18 @@
 
-### ~ Zenin, this side ~
+### ~ Vincenzo, this side ~
 
-**Founder | Backend Developer | Security Analyst | Web Developer**
+**🔐 Cybersecurity Enthusiast | 🐍 Python Developer | 🌐 Web Developer**
 
 ---
 
-### What I know:
- 
-- 🐧 Kali Linux 
-- 🐍 Python For Backend   
-- 🌐 Web Developer
-- 🔥 Strengthening fundamentals in networking & OS concepts (DSA)  
+## 🛠️ Tech Stack & Skills
+
+- 🐧 Kali Linux
+- 🐍 Python (Backend & Automation)
+- 🌐 HTML • CSS • JavaScript
+- 🔐 Cybersecurity Fundamentals
+- 🌍 Networking & Operating Systems
+- 📚 Currently learning Ethical Hacking & DSA
 
 <div align="center">
   
