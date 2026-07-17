@@ -17,10 +17,10 @@
 <div align="center">
 
 
-## 💀 Quote of the Day
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://raw.githubusercontent.com/ArnavTiwari01/ArnavTiwari01/output/github-contribution-grid-snake-dark.svg" />
 </p>
   
 ## Tech Stack
