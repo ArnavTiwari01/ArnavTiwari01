@@ -19,10 +19,10 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
-## 🏆 GitHub Trophies
+## 📋 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavTiwari01&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavTiwari01&theme=dracula" />
 </p>
 
 ## 📈 Contribution Graph
