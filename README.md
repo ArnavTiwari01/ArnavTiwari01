@@ -15,40 +15,22 @@
 - 📚 Currently learning Ethical Hacking & DSA
 
 <div align="center">
-  
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Lumen Study Planner</h3>
-<p align="center">
-A modern productivity-focused study planner with Pomodoro timer, XP system, streaks, themes, and ambient sounds.
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center">Coming Soon...</h3>
-<p align="center">
-Python Security Tools & Ethical Hacking Projects
-</p>
-</td>
-</tr>
-</table>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=dracula&hide_border=true" width="100%"/>
-</p>
 
 ## 💀 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+  
+## Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=dracula&hide_border=true" width="100%"/>
 </p>
 
 ## View 
