@@ -19,11 +19,10 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&theme=dracula&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&theme=dracula&hide_border=true" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ArnavTiwari01&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ## 📈 Contribution Graph
@@ -32,10 +31,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=dracula&hide_border=true" width="100%"/>
 </p>
 
-## 🔥 GitHub Streak
+## 💻 About Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking;Python+Developer;Backend+%26+Web+Developer;Always+Learning+Something+New..." />
 </p>
 
 ---
