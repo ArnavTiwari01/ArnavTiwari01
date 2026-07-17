@@ -32,6 +32,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=dracula&hide_border=true" width="100%"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula&hide_border=true" />
+</p>
+
 ---
 
 ## View 
