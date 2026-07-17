@@ -15,16 +15,20 @@
 - 📚 Currently learning Ethical Hacking & DSA
 
 <div align="center">
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArnavTiwari01/ArnavTiwari01/output/github-contribution-grid-snake-dark.svg" />
-</p>
   
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
+
+
+## 🛡️ Interests
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557CFF"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+</p>
+
 
 
 ## 📈 Contribution Graph
