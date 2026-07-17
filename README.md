@@ -19,11 +19,25 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
-## 📋 Profile Summary
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Lumen Study Planner</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavTiwari01&theme=dracula" />
+A modern productivity-focused study planner with Pomodoro timer, XP system, streaks, themes, and ambient sounds.
 </p>
+</td>
+
+<td width="50%">
+<h3 align="center">Coming Soon...</h3>
+<p align="center">
+Python Security Tools & Ethical Hacking Projects
+</p>
+</td>
+</tr>
+</table>
 
 ## 📈 Contribution Graph
 
