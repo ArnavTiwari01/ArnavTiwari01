@@ -19,17 +19,17 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&theme=dracula&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&theme=dracula&hide_border=true" height="180"/>
 </p>
 
-## Contribution Graph
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=dracula&hide_border=true" width="100%"/>
 </p>
 
 ---
