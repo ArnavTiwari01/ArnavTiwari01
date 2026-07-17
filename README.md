@@ -20,15 +20,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
 
 
-## 🛡️ Interests
+## 💻 About Me
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557CFF"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking;Python+Developer;Backend+%26+Web+Developer;Always+Learning+Something+New..." />
 </p>
-
 
 
 ## 📈 Contribution Graph
@@ -42,6 +38,11 @@ Welcome to my GitHub profile.
 I'm actively learning, building projects, and working toward becoming a skilled Software & Security Engineer.
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C0FF&width=700&lines=Building+Skills.+Learning+Daily.+Growing+as+an+Engineer." />
+</p>
+
 
 ## Connect
 <p align="center">
@@ -58,8 +59,5 @@ I'm actively learning, building projects, and working toward becoming a skilled 
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C0FF&width=700&lines=Building+Skills.+Learning+Daily.+Growing+as+an+Engineer." />
-</p>
 
 
