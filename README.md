@@ -26,12 +26,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Python+Learner;Aspiring+Software+Engineer;Building+Projects;Always+Learning+Something+New..." />
 </p>
 
-
-## 📈 Contribution Graph
+## 📊 Skill Radar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavTiwari01&theme=dracula&hide_border=true" width="100%"/>
-</p>
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Problem%20Solving%22%2C%22Git%22%2C%22Projects%22%2C%22Learning%20Speed%22%2C%22Consistency%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22ArnavTiwari01%22%2C%22data%22%3A%5B75%2C60%2C50%2C55%2C80%2C70%5D%2C%22backgroundColor%22%3A%22rgba(189%2C%20147%2C%20249%2C%200.2)%22%2C%22borderColor%22%3A%22%23BD93F9%22%2C%22pointBackgroundColor%22%3A%22%23BD93F9%22%7D%5D%7D%2C%22options%22%3A%7B%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZe
 
 ## View 
 Welcome to my GitHub profile.  
