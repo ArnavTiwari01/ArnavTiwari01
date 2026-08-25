@@ -28,9 +28,14 @@
 
 ## 📊 Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e5e7eb&langs_count=6" alt="Top Languages" />
-</p>
+| Skill            | Level        | Progress       |
+|------------------|--------------|----------------|
+| Python           | Intermediate | ████████░░ 80% |
+| Problem Solving  | Developing   | ██████░░░░ 60% |
+| Git & GitHub     | Beginner     | █████░░░░░ 50% |
+| Projects         | Building     | █████░░░░░ 55% |
+| Consistency      | Good         | ███████░░░ 70% |
+| Learning Speed   | Strong       | ████████░░ 80% |
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C0FF&width=700&lines=Building+Skills.+Learning+Daily.+Growing+as+an+Engineer." />
