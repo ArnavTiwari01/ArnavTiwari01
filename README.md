@@ -26,11 +26,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Python+Learner;Aspiring+Software+Engineer;Building+Projects;Always+Learning+Something+New..." />
 </p>
 
-
 ## 📊 Skills & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=e5e7eb" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavTiwari01&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Streak" />
 </p>
 
 ## Connect
