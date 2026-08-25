@@ -27,17 +27,43 @@
 </p>
 
 ## 📊 Skill Radar
-
-{
-  type: 'bar',                                // Show a bar chart
+<script>
+  {
+  type: 'bar',
   data: {
-    labels: [2012, 2013, 2014, 2015, 2016],   // Set X-axis labels
-    datasets: [{
-      label: 'Users',                         // Create the 'Users' dataset
-      data: [120, 60, 50, 180, 120]           // Add data to the chart
-    }]
-  }
+    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+    datasets: [
+      {
+        type: 'line',
+        label: 'Dataset 1',
+        borderColor: 'rgb(54, 162, 235)',
+        borderWidth: 2,
+        fill: false,
+        data: [-33, 26, 29, 89, -41, 70, -84],
+      },
+      {
+        label: 'Dataset 2',
+        backgroundColor: 'rgb(255, 99, 132)',
+        data: [-42, 73, -69, -94, -81, 18, 87],
+        borderColor: 'white',
+        borderWidth: 2,
+      },
+      {
+        label: 'Dataset 3',
+        backgroundColor: 'rgb(75, 192, 192)',
+        data: [93, 60, -15, 77, -59, 82, -44],
+      },
+    ],
+  },
+  options: {
+    title: {
+      display: true,
+      text: 'My chart',
+    },
+  },
 }
+</script>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C0FF&width=700&lines=Building+Skills.+Learning+Daily.+Growing+as+an+Engineer." />
 </p>
