@@ -30,12 +30,12 @@
 
 | Skill            | Level        | Progress       |
 |------------------|--------------|----------------|
-| Python           | Intermediate | ████████░░ 80% |
-| Problem Solving  | Developing   | ██████░░░░ 60% |
-| Git & GitHub     | Beginner     | █████░░░░░ 50% |
-| Projects         | Building     | █████░░░░░ 55% |
-| Consistency      | Good         | ███████░░░ 70% |
-| Learning Speed   | Strong       | ████████░░ 80% |
+| Python           | Intermediate | ████████░░  |
+| Problem Solving  | Developing   | ██████░░░░  |
+| Git & GitHub     | Beginner     | █████░░░░░  |
+| Projects         | Building     | █████░░░░░  |
+| Consistency      | Good         | ███████░░░  |
+| Learning Speed   | Strong       | ████████░░  |
 
 
 ## Connect
