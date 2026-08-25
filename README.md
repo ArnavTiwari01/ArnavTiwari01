@@ -20,12 +20,15 @@
 <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
 
 
-## 📊 Skills & Stats
+## 📊 Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" height="160em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavTiwari01&theme=radical&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="160em" />
-</p>
+| Skill              | Level        | Progress          |
+|--------------------|--------------|-------------------|
+| **Python**         | Intermediate | ████████░░ **80%** |
+| **Problem Solving**| Developing   | ██████░░░░ **60%** |
+| **Git & GitHub**   | Beginner     | █████░░░░░ **50%** |
+| **Projects**       | Building     | █████░░░░░ **55%** |
+| **Consistency**    | Good         | ███████░░░ **70%** |
 
 
 ## 💻 About Me
