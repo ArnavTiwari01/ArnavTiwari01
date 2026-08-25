@@ -12,10 +12,10 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- 🐍 **Python**
-- 🔧 **Git & GitHub**
-- 🧠 **Problem Solving & DSA**
-- 📦 **Building Projects**
+ 🐍 **Python**
+ 🔧 **Git & GitHub**
+ 🧠 **Problem Solving & DSA**
+ 📦 **Building Projects**
 
 </div>
   
