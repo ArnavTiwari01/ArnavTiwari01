@@ -26,43 +26,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Python+Learner;Aspiring+Software+Engineer;Building+Projects;Always+Learning+Something+New..." />
 </p>
 
-## 📊 Skill Radar
-<script>
-  {
-  type: 'bar',
-  data: {
-    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
-    datasets: [
-      {
-        type: 'line',
-        label: 'Dataset 1',
-        borderColor: 'rgb(54, 162, 235)',
-        borderWidth: 2,
-        fill: false,
-        data: [-33, 26, 29, 89, -41, 70, -84],
-      },
-      {
-        label: 'Dataset 2',
-        backgroundColor: 'rgb(255, 99, 132)',
-        data: [-42, 73, -69, -94, -81, 18, 87],
-        borderColor: 'white',
-        borderWidth: 2,
-      },
-      {
-        label: 'Dataset 3',
-        backgroundColor: 'rgb(75, 192, 192)',
-        data: [93, 60, -15, 77, -59, 82, -44],
-      },
-    ],
-  },
-  options: {
-    title: {
-      display: true,
-      text: 'My chart',
-    },
-  },
-}
-</script>
+## 📊 Skills
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e5e7eb&card_width=400" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C0FF&width=700&lines=Building+Skills.+Learning+Daily.+Growing+as+an+Engineer." />
