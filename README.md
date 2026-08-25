@@ -19,11 +19,19 @@
 
 </div>
   
-## Tech Stack
+<div align="center">
+
+### Tech Stack
+
 <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
 
+</div>
 
-## 📊 Skills
+<br>
+
+<div align="center">
+
+### 📊 Skills
 
 | Skill              | Level        | Progress          |
 |--------------------|--------------|-------------------|
@@ -33,13 +41,17 @@
 | **Projects**       | Building     | █████░░░░░ **55%** |
 | **Consistency**    | Good         | ███████░░░ **70%** |
 
+</div>
 
-## 💻 About Me
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Python+Learner;Aspiring+Software+Engineer;Building+Projects;Always+Learning+Something+New..." />
-</p>
+<div align="center">
 
+### 💻 About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Python+Learner;Aspiring+Software+Engineer;Building+Projects;Always+Learning+Something+New..." />
+
+</div>
 
 
 
