@@ -29,7 +29,7 @@
 ## 📊 Skills
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e5e7eb&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavTiwari01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e5e7eb&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
