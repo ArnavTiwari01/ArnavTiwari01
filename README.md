@@ -1,7 +1,5 @@
 <div align="center">
 
-~ Aki, this side ~
-
 **🐍 Python Learner** | **💻 Aspiring Software Engineer**
 
 </div>
