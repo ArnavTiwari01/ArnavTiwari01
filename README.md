@@ -1,17 +1,23 @@
+<div align="center">
+  
+~ Aki, this side ~
 
-### ~ Aki, this side ~
+🐍 **Python Learner** | 💻 **Aspiring Software Engineer**
 
-**🔐 Cybersecurity Enthusiast | 🐍 Python Developer | 🌐 Web Developer**
+</div>
 
 ---
-## 🛠️ Tech Stack & Skills
-
-- 🐍 Python
-- 🔧 Git & GitHub
-- 🧠 Problem Solving & DSA
-- 📦 Building Projects
 
 <div align="center">
+
+### 🛠️ Tech Stack & Skills
+
+- 🐍 **Python**
+- 🔧 **Git & GitHub**
+- 🧠 **Problem Solving & DSA**
+- 📦 **Building Projects**
+
+</div>
   
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
