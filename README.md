@@ -29,19 +29,6 @@
 
 ### ~ Aki, this side ~
 
-**🔐 Cybersecurity Enthusiast | 🐍 Python Developer | 🌐 Web Developer**
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- 🐧 Kali Linux
-- 🐍 Python (Backend & Automation)
-- 🌐 HTML • CSS • JavaScript
-- 🔐 Cybersecurity Fundamentals
-- 🌍 Networking & Operating Systems
-- 📚 Currently learning Ethical Hacking & DSA
-
 <div align="center">
   
 ## Tech Stack
