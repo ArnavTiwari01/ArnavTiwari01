@@ -17,7 +17,7 @@
 <div align="center">
   
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,python,javascript,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
 
 
 ## 💻 About Me
