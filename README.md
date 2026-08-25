@@ -37,10 +37,6 @@
 | Consistency      | Good         | ███████░░░ 70% |
 | Learning Speed   | Strong       | ████████░░ 80% |
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C0FF&width=700&lines=Building+Skills.+Learning+Daily.+Growing+as+an+Engineer." />
-</p>
-
 
 ## Connect
 <p align="center">
