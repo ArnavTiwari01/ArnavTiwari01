@@ -33,19 +33,40 @@
 
 ### 📊 Skills
 
-| Skill              | Level        | Progress          |
-|--------------------|--------------|-------------------|
-| **Python**         | Intermediate | ████████░░ **80%** |
-| **Problem Solving**| Developing   | ██████░░░░ **60%** |
-| **Git & GitHub**   | Beginner     | █████░░░░░ **50%** |
-| **Projects**       | Building     | █████░░░░░ **55%** |
-| **Consistency**    | Good         | ███████░░░ **70%** |
+<table>
+  <tr>
+    <th width="200">Skill</th>
+    <th width="150">Level</th>
+    <th width="250">Progress</th>
+  </tr>
+  <tr>
+    <td><b>Python</b></td>
+    <td>Intermediate</td>
+    <td>████████░░ <b>80%</b></td>
+  </tr>
+  <tr>
+    <td><b>Problem Solving</b></td>
+    <td>Developing</td>
+    <td>██████░░░░ <b>60%</b></td>
+  </tr>
+  <tr>
+    <td><b>Git & GitHub</b></td>
+    <td>Beginner</td>
+    <td>█████░░░░░ <b>50%</b></td>
+  </tr>
+  <tr>
+    <td><b>Projects</b></td>
+    <td>Building</td>
+    <td>█████░░░░░ <b>55%</b></td>
+  </tr>
+  <tr>
+    <td><b>Consistency</b></td>
+    <td>Good</td>
+    <td>███████░░░ <b>70%</b></td>
+  </tr>
+</table>
 
 </div>
-
-<br>
-
-<div align="center">
 
 ### 💻 About Me
 
