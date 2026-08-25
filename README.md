@@ -29,13 +29,8 @@
 ## 📊 Skill Radar
 
 <p align="center">
-  <img src="https://quickchart.io/chart?width=400&height=300&c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Python'%2C'Problem%20Solving'%2C'Git'%2C'Projects'%2C'Learning%20Speed'%2C'Consistency'%5D%2Cdatasets%3A%5B%7Blabel%3A'ArnavTiwari01'%2Cdata%3A%5B75%2C60%2C50%2C55%2C80%2C70%5D%2CbackgroundColor%3A'rgba(34%2C197%2C94%2C0.2)'%2CborderColor%3A'%2322c55e'%2CpointBackgroundColor%3A'%2322c55e'%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%7D%7D" alt="Skill Radar" />
+  <img src="https://quickchart.io/chart?width=450&height=350&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Problem%20Solving%22%2C%22Git%22%2C%22Projects%22%2C%22Learning%20Speed%22%2C%22Consistency%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22ArnavTiwari01%22%2C%22data%22%3A%5B75%2C60%2C50%2C55%2C80%2C70%5D%2C%22fill%22%3Atrue%2C%22backgroundColor%22%3A%22rgba(34%2C197%2C94%2C0.25)%22%2C%22borderColor%22%3A%22%2322c55e%22%2C%22pointBackgroundColor%22%3A%22%2322c55e%22%2C%22pointBorderColor%22%3A%22%23fff%22%2C%22pointHoverBackgroundColor%22%3A%22%23fff%22%2C%22pointHoverBorderColor%22%3A%22%2322c55e%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22labels%22%3A%7B%22color%22%3A%22%23e5e7eb%22%7D%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba(255%2C255%2C255%2C0.15)%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba(255%2C255%2C255%2C0.1)%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23e5e7eb%22%2C%22font%22%3A%7B%22size%22%3A13%7D%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%7D%7D%7D%7D" alt="Skill Radar" />
 </p>
-
-## View 
-Welcome to my GitHub profile.  
-I'm actively learning, building projects, and working toward becoming a skilled Software & Security Engineer.
-
 ---
 
 <p align="center">
