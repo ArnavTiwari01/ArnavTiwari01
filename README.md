@@ -26,17 +26,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Python+Learner;Aspiring+Software+Engineer;Building+Projects;Always+Learning+Something+New..." />
 </p>
 
-## 📊 Skills
+## 📊 Skills & Stats
 
-| Skill            | Level        | Progress       |
-|------------------|--------------|----------------|
-| Python           | Intermediate | ████████░░  |
-| Problem Solving  | Developing   | ██████░░░░  |
-| Git & GitHub     | Beginner     | █████░░░░░  |
-| Projects         | Building     | █████░░░░░  |
-| Consistency      | Good         | ███████░░░  |
-| Learning Speed   | Strong       | ████████░░  |
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavTiwari01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=e5e7eb" alt="GitHub Stats" />
+</p>
 
 ## Connect
 <p align="center">
