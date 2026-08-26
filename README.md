@@ -44,6 +44,3 @@ I care more about writing clean code and shipping consistently than collecting c
 
 ```text
 learn → build → break → fix → repeat
-```
-
-If you want to follow along, start here: [python-learning](https://github.com/ArnavTiwari01/python-learning).
